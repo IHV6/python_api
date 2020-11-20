@@ -1,1 +1,1 @@
-# python_qa
+# Python API tests with pytest and requests
