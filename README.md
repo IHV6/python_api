@@ -1,6 +1,6 @@
 ## Python API tests with pytest and requests
 
-### API documentation
+### SpaceX API documentation
 ```https://docs.spacexdata.com```
 
 #### Run tests on terminal
