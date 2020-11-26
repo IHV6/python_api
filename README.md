@@ -7,3 +7,9 @@
 ```pytest -v```
 
 With printing ```pytest -v -s```
+
+##### Run tests on docker
+
+```docker build -t api_tests .```
+
+```docker run --rm api_tests```
