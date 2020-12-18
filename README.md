@@ -5,7 +5,7 @@
 ```pytest -v```
 
 
-##### Run tests on docker
+#### Run tests on docker
 
 ```docker build -t api_tests .```
 
