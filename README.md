@@ -6,7 +6,6 @@
 #### Run tests on terminal
 ```pytest -v```
 
-With printing ```pytest -v -s```
 
 ##### Run tests on docker
 
